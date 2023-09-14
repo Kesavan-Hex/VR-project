@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285827420037",
+    "project_id": "vr-app-a1d90",
+    "storage_bucket": "vr-app-a1d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285827420037:android:f532d32b65271ab7237eec",
+        "android_client_info": {
+          "package_name": "com.flutter.sourcecoders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09tNwKv6VyZ9pLHzT5lZeOMsIqrKpBhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
